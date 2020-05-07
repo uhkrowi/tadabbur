@@ -1,4 +1,4 @@
-# tilawah
+# tadabbur
 
 > My good Nuxt.js project
 
