@@ -1,0 +1,688 @@
+{
+  "suras": [
+    {
+      "id": "1",
+      "name": "Surah Al-Fatihah",
+      "translate": "Pembukaan",
+      "name_ar": "الفاتحة"
+    },
+    {
+      "id": "2",
+      "name": "Surah Al-Baqarah",
+      "translate": "Lembu Betina",
+      "name_ar": "البقرة"
+    },
+    {
+      "id": "3",
+      "name": "Surah Ali ‘Imran",
+      "translate": "Keluarga Imran",
+      "name_ar": "آل عمران"
+    },
+    {
+      "id": "4",
+      "name": "Surah An-Nisaa’",
+      "translate": "Wanita",
+      "name_ar": "النساء"
+    },
+    {
+      "id": "5",
+      "name": "Surah Al-Maa’idah",
+      "translate": "Hidangan",
+      "name_ar": "المائدة"
+    },
+    {
+      "id": "6",
+      "name": "Surah Al-An’aam",
+      "translate": "Binatang Ternakan",
+      "name_ar": "الأنعام"
+    },
+    {
+      "id": "7",
+      "name": "Surah Al-A’raaf",
+      "translate": "Tempat Tertinggi",
+      "name_ar": "الأعراف"
+    },
+    {
+      "id": "8",
+      "name": "Surah Al-Anfaal",
+      "translate": "Rampasan Perang",
+      "name_ar": "الأنفال"
+    },
+    {
+      "id": "9",
+      "name": "Surah At-Taubah",
+      "translate": "Pengampunan",
+      "name_ar": "التوبة"
+    },
+    {
+      "id": "10",
+      "name": "Surah Yunus",
+      "translate": "Nabi Yunus a.s.",
+      "name_ar": "يونس"
+    },
+    {
+      "id": "11",
+      "name": "Surah Hud",
+      "translate": "Nabi Hud a.s.",
+      "name_ar": "هود"
+    },
+    {
+      "id": "12",
+      "name": "Surah Yusuf",
+      "translate": "Nabi Yusuf a.s.",
+      "name_ar": "يوسف"
+    },
+    {
+      "id": "13",
+      "name": "Surah Ar-Ra’d",
+      "translate": "Guruh",
+      "name_ar": "الرعد"
+    },
+    {
+      "id": "14",
+      "name": "Surah Ibrahim",
+      "translate": "Nabi Ibrahim a.s.",
+      "name_ar": "إبراهيم"
+    },
+    {
+      "id": "15",
+      "name": "Surah Al-Hijr",
+      "translate": "Kawasan Berbatu",
+      "name_ar": "الحجر"
+    },
+    {
+      "id": "16",
+      "name": "Surah An-Nahl",
+      "translate": "Lebah",
+      "name_ar": "النحل"
+    },
+    {
+      "id": "17",
+      "name": "Surah Al-Israa’",
+      "translate": "Perjalanan Malam",
+      "name_ar": "الإسراء"
+    },
+    {
+      "id": "18",
+      "name": "Surah Al-Kahfi",
+      "translate": "Gua",
+      "name_ar": "الكهف"
+    },
+    {
+      "id": "19",
+      "name": "Surah Maryam",
+      "translate": "Siti Maryam",
+      "name_ar": "مريم"
+    },
+    {
+      "id": "20",
+      "name": "Surah Taahaa",
+      "translate": "",
+      "name_ar": "طه"
+    },
+    {
+      "id": "21",
+      "name": "Surah Al-Anbiyaa’",
+      "translate": "Para Nabi",
+      "name_ar": "الأنبياء"
+    },
+    {
+      "id": "22",
+      "name": "Surah Al-Hajj",
+      "translate": "Haji",
+      "name_ar": "الحج"
+    },
+    {
+      "id": "23",
+      "name": "Surah Al-Mu’minun",
+      "translate": "Golongan yang Beriman",
+      "name_ar": "المؤمنون"
+    },
+    {
+      "id": "24",
+      "name": "Surah An-Nuur",
+      "translate": "Cahaya",
+      "name_ar": "النّور"
+    },
+    {
+      "id": "25",
+      "name": "Surah Al-Furqaan",
+      "translate": "Pembeza Kebenaran dan Kebatilan",
+      "name_ar": "الفرقان"
+    },
+    {
+      "id": "26",
+      "name": "Surah Asy-Syu’araa",
+      "translate": "Para Penyair",
+      "name_ar": "الشعراء"
+    },
+    {
+      "id": "27",
+      "name": "Surah An-Naml",
+      "translate": "Semut",
+      "name_ar": "النّمل"
+    },
+    {
+      "id": "28",
+      "name": "Surah Al-Qasas",
+      "translate": "Cerita-cerita",
+      "name_ar": "القصص"
+    },
+    {
+      "id": "29",
+      "name": "Surah Al-‘Ankabut",
+      "translate": "Labah-labah",
+      "name_ar": "العنكبوت"
+    },
+    {
+      "id": "30",
+      "name": "Surah Ar-Rum",
+      "translate": "Bangsa Rom",
+      "name_ar": "الرّوم"
+    },
+    {
+      "id": "31",
+      "name": "Surah Luqman",
+      "translate": "Luqman",
+      "name_ar": "لقمان"
+    },
+    {
+      "id": "32",
+      "name": "Surah As-Sajdah",
+      "translate": "Sujud",
+      "name_ar": "السجدة"
+    },
+    {
+      "id": "33",
+      "name": "Surah Al-Ahzab",
+      "translate": "Golongan yang Bersekutu",
+      "name_ar": "الأحزاب"
+    },
+    {
+      "id": "34",
+      "name": "Surah Saba’",
+      "translate": "Kaum Saba’",
+      "name_ar": "سبأ"
+    },
+    {
+      "id": "35",
+      "name": "Surah Faatir",
+      "translate": "Pencipta",
+      "name_ar": "فاطر"
+    },
+    {
+      "id": "36",
+      "name": "Surah Yaasin",
+      "translate": "",
+      "name_ar": "يس"
+    },
+    {
+      "id": "37",
+      "name": "Surah As-Saaffat",
+      "translate": "Yang Teratur Berbaris",
+      "name_ar": "الصافات"
+    },
+    {
+      "id": "38",
+      "name": "Surah Saad",
+      "translate": "",
+      "name_ar": "ص"
+    },
+    {
+      "id": "39",
+      "name": "Surah Az-Zumar",
+      "translate": "Rombongan",
+      "name_ar": "الزمر"
+    },
+    {
+      "id": "40",
+      "name": "Surah Al-Ghafir / Al-Mu’min",
+      "translate": "Orang yang Beriman",
+      "name_ar": "غافر"
+    },
+    {
+      "id": "41",
+      "name": "Surah Fussilat",
+      "translate": "Dijelaskan",
+      "name_ar": "فصّلت"
+    },
+    {
+      "id": "42",
+      "name": "Surah Asy-Syuraa",
+      "translate": "Permesyuaratan",
+      "name_ar": "الشورى"
+    },
+    {
+      "id": "43",
+      "name": "Surah Az-Zukhruf",
+      "translate": "Perhiasan Emas",
+      "name_ar": "الزخرف"
+    },
+    {
+      "id": "44",
+      "name": "Surah Ad-Dukhaan",
+      "translate": "Kabut / Asap",
+      "name_ar": "الدّخان"
+    },
+    {
+      "id": "45",
+      "name": "Surah Al-Jatsiyah",
+      "translate": "Yang Berlutut",
+      "name_ar": "الجاثية"
+    },
+    {
+      "id": "46",
+      "name": "Surah Al-Ahqaaf",
+      "translate": "Bukit-bukit Pasir",
+      "name_ar": "الأحقاف"
+    },
+    {
+      "id": "47",
+      "name": "Surah Muhammad",
+      "translate": "Nabi Muhammad SAW",
+      "name_ar": "محمد"
+    },
+    {
+      "id": "48",
+      "name": "Surah Al-Fath",
+      "translate": "Kemenangan",
+      "name_ar": "الفتح"
+    },
+    {
+      "id": "49",
+      "name": "Surah Al-Hujurat",
+      "translate": "Bilik-bilik",
+      "name_ar": "الحجرات"
+    },
+    {
+      "id": "50",
+      "name": "Surah Qaaf",
+      "translate": "",
+      "name_ar": "ق"
+    },
+    {
+      "id": "51",
+      "name": "Surah Adz-Dzariyaat",
+      "translate": "Angin yang Menerbangkan",
+      "name_ar": "الذاريات"
+    },
+    {
+      "id": "52",
+      "name": "Surah At-Tur",
+      "translate": "Bukit",
+      "name_ar": "الطور"
+    },
+    {
+      "id": "53",
+      "name": "Surah An-Najm",
+      "translate": "Bintang",
+      "name_ar": "النجم"
+    },
+    {
+      "id": "54",
+      "name": "Surah Al-Qamar",
+      "translate": "Bulan",
+      "name_ar": "القمر"
+    },
+    {
+      "id": "55",
+      "name": "Surah Ar-Rahman",
+      "translate": "Yang Maha Pemurah",
+      "name_ar": "الرحمن"
+    },
+    {
+      "id": "56",
+      "name": "Surah Al-Waqi’ah",
+      "translate": "Peristiwa yang Tidak Dapat Dielakkan",
+      "name_ar": "الواقعة"
+    },
+    {
+      "id": "57",
+      "name": "Surah Al-Hadid",
+      "translate": "Besi",
+      "name_ar": "الحديد"
+    },
+    {
+      "id": "58",
+      "name": "Surah Al-Mujadilah",
+      "translate": "Perempuan yang Merayu",
+      "name_ar": "المجادلة"
+    },
+    {
+      "id": "59",
+      "name": "Surah Al-Hasyr",
+      "translate": "Pengusiran",
+      "name_ar": "الحشر"
+    },
+    {
+      "id": "60",
+      "name": "Surah Al-Mumtahanah",
+      "translate": "Perempuan yang Diuji",
+      "name_ar": "الممتحنة"
+    },
+    {
+      "id": "61",
+      "name": "Surah As-Saf",
+      "translate": "Barisan",
+      "name_ar": "الصف"
+    },
+    {
+      "id": "62",
+      "name": "Surah Al-Jumu’ah",
+      "translate": "Hari Jumaat",
+      "name_ar": "الجمعة"
+    },
+    {
+      "id": "63",
+      "name": "Surah Al-Munafiquun",
+      "translate": "Golongan Munafik",
+      "name_ar": "المنافقون"
+    },
+    {
+      "id": "64",
+      "name": "Surah At-Taghabun",
+      "translate": "Dinampakkan Kesalahan",
+      "name_ar": "التغابن"
+    },
+    {
+      "id": "65",
+      "name": "Surah At-Talaq",
+      "translate": "Cerai / Talak",
+      "name_ar": "الطلاق"
+    },
+    {
+      "id": "66",
+      "name": "Surah At-Tahrim",
+      "translate": "Mengharamkan",
+      "name_ar": "التحريم"
+    },
+    {
+      "id": "67",
+      "name": "Surah Al-Mulk",
+      "translate": "Kerajaan",
+      "name_ar": "الملك"
+    },
+    {
+      "id": "68",
+      "name": "Surah Al-Qalam",
+      "translate": "Pena / Kalam",
+      "name_ar": "القلم"
+    },
+    {
+      "id": "69",
+      "name": "Surah Al-Haaqqah",
+      "translate": "Keadaan Sebenar / Hari Kiamat",
+      "name_ar": "الحاقة"
+    },
+    {
+      "id": "70",
+      "name": "Surah Al-Ma’arij",
+      "translate": "Tempat-tempat Naik",
+      "name_ar": "المعارج"
+    },
+    {
+      "id": "71",
+      "name": "Surah Nuh",
+      "translate": "Nabi Nuh a.s.",
+      "name_ar": "نوح"
+    },
+    {
+      "id": "72",
+      "name": "Surah A-Jin",
+      "translate": "Jin",
+      "name_ar": "الجن"
+    },
+    {
+      "id": "73",
+      "name": "Surah Al-Muzammil",
+      "translate": "Yang Berselimut",
+      "name_ar": "المزّمّل"
+    },
+    {
+      "id": "74",
+      "name": "Surah Al-Muddathir",
+      "translate": "Yang Berselubung",
+      "name_ar": "المدّثر"
+    },
+    {
+      "id": "75",
+      "name": "Surah Al-Qiyaamah",
+      "translate": "Hari Kebangkitan / Kiamat",
+      "name_ar": "القيامة"
+    },
+    {
+      "id": "76",
+      "name": "Surah Al-Insaan",
+      "translate": "Manusia",
+      "name_ar": "الإنسان"
+    },
+    {
+      "id": "77",
+      "name": "Surah Al-Mursalat",
+      "translate": "Malaikat Yang Diutus",
+      "name_ar": "المرسلات"
+    },
+    {
+      "id": "78",
+      "name": "Surah An-Naba’",
+      "translate": "Berita Besar",
+      "name_ar": "النبأ"
+    },
+    {
+      "id": "79",
+      "name": "Surah An-Naazi’aat",
+      "translate": "Malaikat Yang Mencabut",
+      "name_ar": "النازعات"
+    },
+    {
+      "id": "80",
+      "name": "Surah ‘Abasa",
+      "translate": "Dia Bermasam Muka",
+      "name_ar": "عبس"
+    },
+    {
+      "id": "81",
+      "name": "Surah At-Takwiir",
+      "translate": "Menggulung",
+      "name_ar": "التكوير"
+    },
+    {
+      "id": "82",
+      "name": "Surah Al-Infitar",
+      "translate": "Terpecah & Terbelah",
+      "name_ar": "الإنفطار"
+    },
+    {
+      "id": "83",
+      "name": "Surah Al-Mutaffifiin",
+      "translate": "Golongan yang Curang",
+      "name_ar": "المطفّفين"
+    },
+    {
+      "id": "84",
+      "name": "Surah Al-Insyiqaaq",
+      "translate": "Terbelah",
+      "name_ar": "الإنشقاق"
+    },
+    {
+      "id": "85",
+      "name": "Surah Al-Buruj",
+      "translate": "Gugusan Bintang",
+      "name_ar": "البروج"
+    },
+    {
+      "id": "86",
+      "name": "Surah At-Taariq",
+      "translate": "Pengunjung Malam",
+      "name_ar": "الطارق"
+    },
+    {
+      "id": "87",
+      "name": "Surah Al-A’laa",
+      "translate": "Yang Tertinggi",
+      "name_ar": "الأعلى"
+    },
+    {
+      "id": "88",
+      "name": "Surah Al-Ghaasyiah",
+      "translate": "Peristiwa Menggelisahkan/Hari Pembalasan",
+      "name_ar": "الغاشية"
+    },
+    {
+      "id": "89",
+      "name": "Surah Al-Fajr",
+      "translate": "Fajar / Sinar Mentari",
+      "name_ar": "الفجر"
+    },
+    {
+      "id": "90",
+      "name": "Surah Al-Balad",
+      "translate": "Negeri",
+      "name_ar": "البلد"
+    },
+    {
+      "id": "91",
+      "name": "Surah Asy-Syams",
+      "translate": "Matahari",
+      "name_ar": "الشمس"
+    },
+    {
+      "id": "92",
+      "name": "Surah Al-Lail",
+      "translate": "Malam",
+      "name_ar": "الليل"
+    },
+    {
+      "id": "93",
+      "name": "Surah Adh-Dhuha",
+      "translate": "Pagi yang Cemerlang / Matahari Meninggi",
+      "name_ar": "الضحى"
+    },
+    {
+      "id": "94",
+      "name": "Surah Al-Insyirah/An-Nasyrah",
+      "translate": "Melapangkan",
+      "name_ar": "الشرح"
+    },
+    {
+      "id": "95",
+      "name": "Surah At-Tin",
+      "translate": "Buah Tin / Buah Ara",
+      "name_ar": "التين"
+    },
+    {
+      "id": "96",
+      "name": "Surah Al-‘Alaq",
+      "translate": "Segumpal Darah",
+      "name_ar": "العلق"
+    },
+    {
+      "id": "97",
+      "name": "Surah Al-Qadr",
+      "translate": "Kemuliaan",
+      "name_ar": "القدر"
+    },
+    {
+      "id": "98",
+      "name": "Surah Al-Baiyinah",
+      "translate": "Bukti yang Nyata",
+      "name_ar": "البينة"
+    },
+    {
+      "id": "99",
+      "name": "Surah Al-Zalzalah",
+      "translate": "Kegoncangan",
+      "name_ar": "الزلزلة"
+    },
+    {
+      "id": "100",
+      "name": "Surah Al-‘Aadiyaat",
+      "translate": "Yang Berlari Kencang",
+      "name_ar": "العاديات"
+    },
+    {
+      "id": "101",
+      "name": "Surah Al-Qari’ah",
+      "translate": "Hari Yang Hingar Bingar / Kiamat",
+      "name_ar": "القارعة"
+    },
+    {
+      "id": "102",
+      "name": "Surah At-Takathur",
+      "translate": "Bermegah-megah",
+      "name_ar": "التكاثر"
+    },
+    {
+      "id": "103",
+      "name": "Surah Al-‘Asr",
+      "translate": "Masa",
+      "name_ar": "العصر"
+    },
+    {
+      "id": "104",
+      "name": "Surah Al-Humazah",
+      "translate": "Pengumpat",
+      "name_ar": "الهمزة"
+    },
+    {
+      "id": "105",
+      "name": "Surah Al-Fiil",
+      "translate": "Gajah",
+      "name_ar": "الفيل"
+    },
+    {
+      "id": "106",
+      "name": "Surah Quraisy",
+      "translate": "Kaum Quraisy",
+      "name_ar": "قريش"
+    },
+    {
+      "id": "107",
+      "name": "Surah Al-Ma’un",
+      "translate": "Barangan Berguna",
+      "name_ar": "الماعون"
+    },
+    {
+      "id": "108",
+      "name": "Surah Al-Kauthar",
+      "translate": "Sungai Di Syurga",
+      "name_ar": "الكوثر"
+    },
+    {
+      "id": "109",
+      "name": "Surah Al-Kafirun",
+      "translate": "Golongan Kafir",
+      "name_ar": "الكافرون"
+    },
+    {
+      "id": "110",
+      "name": "Surah An-Nasr",
+      "translate": "Pertolongan",
+      "name_ar": "النصر"
+    },
+    {
+      "id": "111",
+      "name": "Surah Al-Masad / Al-Lahab",
+      "translate": "Nyalaan Api",
+      "name_ar": "المسد"
+    },
+    {
+      "id": "112",
+      "name": "Surah Al-Ikhlas",
+      "translate": "Tulus Ikhlas / Memurnikan Keesaan Allah",
+      "name_ar": "الإخلاص"
+    },
+    {
+      "id": "113",
+      "name": "Surah Al-Falaq",
+      "translate": "Waktu Subuh / Dinihari",
+      "name_ar": "الفلق"
+    },
+    {
+      "id": "114",
+      "name": "Surah An-Naas",
+      "translate": "Manusia",
+      "name_ar": "النّاس"
+    }
+  ]
+}
